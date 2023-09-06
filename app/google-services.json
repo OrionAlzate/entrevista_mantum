@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "797739034013",
+    "firebase_url": "https://entrevista-mantum-default-rtdb.firebaseio.com",
+    "project_id": "entrevista-mantum",
+    "storage_bucket": "entrevista-mantum.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797739034013:android:c97d250d817053c34b3b74",
+        "android_client_info": {
+          "package_name": "com.prueba.api_retrofit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797739034013-ovbkkp9a0ds4jv4l64jk73aag8k771bp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4Y8tCzweHrPjFnZ2wDodTVsvHwP8JlJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797739034013-ovbkkp9a0ds4jv4l64jk73aag8k771bp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
